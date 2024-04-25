@@ -1,3 +1,3 @@
 # Otima Hora
 
-Organizar automático para quadros de horários
+Gerador automático de quadro de horários
